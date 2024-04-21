@@ -16,4 +16,4 @@ if __name__ == '__main__':
     stack.push(3)
     stack.pop()
     print(stack.stack)
-    print("aaa")
+    print("rebasing test")
