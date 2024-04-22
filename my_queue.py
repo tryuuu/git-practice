@@ -21,5 +21,4 @@ if __name__ == '__main__':
     q.enqueue(3)
     q.dequeue()
     print(q.queue)
-    print("revert test")
 
